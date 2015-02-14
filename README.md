@@ -1,0 +1,2 @@
+# daytasks-aur
+daytasks
